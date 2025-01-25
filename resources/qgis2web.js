@@ -437,7 +437,7 @@ var Title = new ol.control.Control({
     element: (() => {
         var titleElement = document.createElement('div');
         titleElement.className = 'top-left-title ol-control';
-        titleElement.innerHTML = '<h2 class="project-title">RHA68-kanavien Traficom 15, 16 ja 18-21 (Metsästyskanavoinnilla 11, 12, 23-26) käyttökieltoalueet</h2>';
+        titleElement.innerHTML = '<h2 class="project-title">RHA68-kanavien Traficom 15, 16 ja 18-21 (Metsästyskanavoinnilla 11, 12 ja 23-26) käyttökieltoalueet</h2>';
         return titleElement;
     })(),
     target: 'top-left-container'
