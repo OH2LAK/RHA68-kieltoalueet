@@ -26,8 +26,8 @@ var lyr_10kmrajavyhyke_1 = new ol.layer.Vector({
                 source:jsonSource_10kmrajavyhyke_1, 
                 style: style_10kmrajavyhyke_1,
                 popuplayertitle: '10km rajavyöhyke',
-                interactive: true,
-                title: '<img src="styles/legend/10kmrajavyhyke_1.png" /> <b>10km rajavyöhyke</b><P>Käyttö kielletty täysin'
+                interactive: false,
+                title: '<img src="styles/legend/10kmrajavyhyke_1.png" /> <b>10km rajavyöhyke</b><p>Käyttö kielletty täysin'
             });
 var format_40kmrajavyhyke_2 = new ol.format.GeoJSON();
 var features_40kmrajavyhyke_2 = format_40kmrajavyhyke_2.readFeatures(json_40kmrajavyhyke_2, 
@@ -41,8 +41,8 @@ var lyr_40kmrajavyhyke_2 = new ol.layer.Vector({
                 source:jsonSource_40kmrajavyhyke_2, 
                 style: style_40kmrajavyhyke_2,
                 popuplayertitle: '40km rajavyöhyke',
-                interactive: true,
-                title: '<img src="styles/legend/40kmrajavyhyke_2.png" /> <b>40km rajavyöhyke</b><P>Tukiasemakäyttö kielletty antennin ollessa yli 5m korkeudessa'
+                interactive: false,
+                title: '<img src="styles/legend/40kmrajavyhyke_2.png" /> <b>40km rajavyöhyke</b><p>Tukiasemakäyttö kielletty antennin ollessa yli 5m maanpinnasta'
             });
 
 lyr_OpenStreetMap_0.setVisible(true);lyr_10kmrajavyhyke_1.setVisible(true);lyr_40kmrajavyhyke_2.setVisible(true);
