@@ -6,8 +6,9 @@ Karttapohjana OpenStreetMap, moottorina [OpenLayers](https://openlayers.org/) ja
 
 Paketin aineisto on suoraan QGIS2Web-pluginin tuottamaa johon on tehty muutamia korjauksia ja lisäyksiä muotoiluihin ja ulkoasuun.
 
-![image](https://github.com/user-attachments/assets/88dc56ea-3101-452b-a964-d0e9c4bc74df)
+Karttapalvelu on saatavilla osoitteessa https://oh2lak.radio/RHA68-kieltoalueet/
 
+![image](https://github.com/user-attachments/assets/3215ae12-8081-472b-8719-5afc8731092b)
 
 ## RHA68-kanavien Traficom 15,16 ja 18-21 (metsästyskanavoinnilla 11,12 ja 23-26) käyttörajoitus- ja kieltoalueet
 
